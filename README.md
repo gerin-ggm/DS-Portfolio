@@ -40,6 +40,8 @@ The analysis identifies customer segments, allowing businesses to:
 - Develop targeted marketing strategies.
 - Enhance customer satisfaction.
 
+- There are other programs using Linear Regression, Logistic Regression, Decision tree, Random Forest and K-Means
+
 ## How to Run
 1. Clone the repository:
    ```bash
