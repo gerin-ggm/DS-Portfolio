@@ -57,6 +57,8 @@ Linear Regression: Predicting outcomes based on linear relationships.
 Logistic Regression: Classification tasks for binary outcomes.
 Decision Trees & Random Forest: Advanced classification and regression techniques.
 Association Rule Mining: Discovering patterns in transactional data.
+
+
 How to Run
 Clone the repository:
 
